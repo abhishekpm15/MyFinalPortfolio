@@ -1,0 +1,390 @@
+{
+    "title": "Abhishek-Resume",
+    "name": "Abhishek P.M",
+    "tagLine": "Web Designer, Founder and CEO of CoDe@athreya.com",
+    "shortDesc":"I ❤️ Coffee + Code",
+    "pic": "./assets/img/avatar.png",
+    "dob": "12-01-2003",
+    "webURL": "https:codeathreya.wixsite.com/code",
+    "number": "+91 82487 75195",
+    "place": "Chennai, TamilNadu, India",
+    "age": "19",
+    "degree": "B.Tech 2nd year Student",
+    "mailID": "pabhishekm@gmail.com",
+    "desc": "Hello Geeks ! Myself Abhishek also known by the name athreya. I'm a student of R.M.K Engineering college with a on going degree of Computer Science and Business System. I'm just a beginner having a lots of wishes in my bucket list.",
+    "counts": [
+        {
+            "title": "Projects",
+            "number": 13
+        },
+        {
+            "title": "Programming Languages",
+            "number": 5
+        },
+        {
+            "title": "Web developing languages",
+            "number": 6
+        },
+        {
+            "title": "Frameworks",
+            "number": 3
+        },
+        {
+            "title": "Certificates ",
+            "number": 37
+        }
+    ],
+    "skills": [
+        {
+            "title": "HTML",
+            "rating": 100,
+            "position": "left"
+        },
+        {
+            "title": "CSS",
+            "rating": 90,
+            "position": "right"
+        },
+        {
+            "title": "JavaScript",
+            "rating": 60,
+            "position": "left"
+        },
+        {
+            "title": "React",
+            "rating": 99,
+            "position": "right"
+        },
+        {
+            "title": "JQUERY",
+            "rating": 70,
+            "position": "left"
+        },
+        {
+            "title": "PHP",
+            "rating": 30,
+            "position": "right"
+        },
+        {
+            "title": "MYSQL",
+            "rating": 60,
+            "position": "left"
+        },
+        {
+            "title": "JAVA",
+            "rating": 90,
+            "position": "right"
+        },
+        {
+            "title": "C",
+            "rating": 100,
+            "position": "left"
+        },
+        {
+            "title": "C++",
+            "rating": 80,
+            "position": "right"
+        },
+        {
+            "title": "Kotlin",
+            "rating": 60,
+            "position": "left"
+        },
+        {
+            "title": "Python",
+            "rating": 30,
+            "position": "right"
+        }
+    ],
+    "fullName": "Abhishek P.M",
+    "smallDesc": "I am a person with positive attitude, self-confidence and a quick learner who works whole- heartedly in each activity taken up and thereby achieving success. I consider myself a socializing and work-oriented person thereby adapting myself and working in any atmosphere.",
+    "Education": {
+        
+        "Colleges": [
+            {
+                "degree": "BACHELOR OF TECHNOLOGY - Computer Science and Business Systems (CSBS)",
+                "year": "2020 - Present",
+                "address": "R.M.KEngineering college"
+            }
+        ],
+        "secondarySchool": [
+            {
+                "standard": "VI - X",
+                "year":"2013 - 2018",
+                "address": "Smt.Durgadevi Choudhary Vivekananda Vidyalaya"
+            },
+            {
+                "standard": "XI - XII",
+                "year": "2018-2020",
+                "address": "Chennai Public School"
+            } 
+        ],
+        "primarySchool": [
+            {
+                "standard": "LKG - V",
+                "year":"2006 - 2013",
+                "address": "Smt.Durgadevi Choudhary Vivekananda Vidyalaya"
+            }
+        ]
+    },
+    "socialMedias": [
+        {
+            "title": "INSTAGRAM",
+            "link": "https://www.instagram.com/abhishekpm15/"
+        },
+        {
+            "title": "LINKEDIN",
+            "link": "https://www.linkedin.com/in/abhishek-p-m-7678521bb/"
+        },
+        {
+            "title": "YOUTUBE",
+            "link": "https://www.youtube.com/channel/UCBv_QJh3C_9EuSMM0FeD_IQ"
+        },
+        {
+            "title": "GITHUB",
+            "link": "https://github.com/abhishekpm15"
+        }
+    ],
+    "certificates": [
+        {
+            "name":"Conference",
+            "link":"48YS-YWTY-T6LC-LKAN.png",
+            "subdesc": "The Mentor Conderence 2021"
+        },
+        {
+            "name":"ADVAITH",
+            "link":"Advaith-certificate.png",
+            "subdesc": "Participation certificate for Outstanding performance"
+        }
+        ,
+        {
+            "name":"AWS",
+            "link":"AWS-module-1.png",
+            "subdesc": "AWS Technical Professional- Module 1"
+        }
+        ,
+        {
+            "name":"Innovative Project",
+            "link":"conference-certi.png",
+            "subdesc": "Conducted by R.M.K Enginerring College"
+        },
+        {
+            "name":"Annual Project",
+            "link":"consolation-prize.png",
+            "subdesc": "Conducted by R.M.K Enginerring College"
+        },
+        {
+            "name":"E-Quiz",
+            "link":"E-quiz.png",
+            "subdesc": "Quiz conducted by UHV department of R.M.K"
+        },
+        {
+            "name":"Student Entrepreneurship",
+            "link":"EDITN.png",
+            "subdesc": "Student Entrepreneurship awareness program"
+        },
+        {
+            "name":"Edx certificate on Cloud development",
+            "link":"EDX-certi-1.png",
+            "subdesc": "Certificate on Introduction to cloud development with HTML,CSS,Javascript"
+        },
+        {
+            "name":"GUVI AI",
+            "link":"GuviCertification---21C3L6wD139eQ21636.png",
+            "subdesc": "Build a face recognition app using python"
+        }
+        ,
+        {
+            "name":"Mentorship",
+            "link":"IIC-activity-participation.png",
+            "subdesc": "Mentorship session for Innovators"
+        },
+        {
+            "name":"Paper presentation",
+            "link":"IIC-activity-participation.png",
+            "subdesc": "Intercollegiate paper presentation on Basic Sciences"
+        },
+        {
+            "name":"Business Plan Competition",
+            "link":"iic-participation.png",
+            "subdesc": "Competition on Innovative Business Models"
+        },
+        {
+            "name":"Infosys certificate",
+            "link":"infosys-c-certificate.png",
+            "subdesc": "Learn and master C programming"
+        },
+        {
+            "name":"Android App development",
+            "link":"Internshala-android-develeopment.png",
+            "subdesc": "Internshala android app developement"
+        },
+    
+        {
+            "name":"Jeppiar coding contest",
+            "link":"Jeppiar-coding-test-2.png",
+            "subdesc": "Conducted by Jeppiar Institute of technology"
+        },
+        {
+            "name":"LGM Heist",
+            "link":"letsgrowmore.png",
+            "subdesc": "An online coding contest"
+        },
+        {
+            "name":"NDLI Awareness Programme",
+            "link":"NDLI-inaugurations.png",
+            "subdesc": "Conducted by R.M.K Engineering college NDLI Club"
+        },
+        {
+            "name":"HTML5 and CSS3",
+            "link":"pirple-HTML-CSS.png",
+            "subdesc": "web development using HTML5 and CSS3"
+        },
+        {
+            "name":"Python programming",
+            "link":"Python-coding.png",
+            "subdesc": "Conducted by VelTech"
+        },
+        {
+            "name":"Internshala Job hunt preparation",
+            "link":"internshala-job-hunt.png",
+            "subdesc": "Certificate from Internshala"
+        }
+        ,
+        {
+            "name":"Coding contest",
+            "link":"Jeppiar-coding-test.jpg",
+            "subdesc": "Online event conducted by Computer Science Society"
+        }
+        ,
+        {
+            "name":"Logo finding competition",
+            "link":"jeppiar-logo-finding.png",
+            "subdesc": "Competition conducted by Jeppiar Institute"
+        }
+        ,
+        {
+            "name":"Web development using HTML CSS Bootstrap DBMS PHP",
+            "link":"internshala-web-development.png",
+            "subdesc": "Certificate from Internshala"
+        }
+        ,
+        {
+            "name":"Introduction to Cloud",
+            "link":"EDX-certi-2.png",
+            "subdesc": "Certificate from Edx"
+        }
+        ,
+        {
+            "name":"Preparing to Network in English",
+            "link":"EDX-certi-3.png",
+            "subdesc": "Certificate from Edx"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Web",
+            "ProjectName": "Spiral using CSS",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/spiral/spiral.jpg",
+            "htmlFile": "project-html/Web/spiral.html",
+            "subTitle": "Sprial<br> Made using CSS"
+        },
+        {
+            "title": "Web",
+            "ProjectName": "Dark mode",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/darmode/darmode.jpg",
+            "htmlFile": "project-html/Web/darmode.html",
+            "subTitle": "Darkmode<br> Made using JavaScript"
+        },
+        {
+            "title": "Web",
+            "ProjectName": "Dice game",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/dice/dice.jpg",
+            "htmlFile": "project-html/Web/dice.html",
+            "subTitle": "Game<br> Made using javascript"
+        },
+        {
+            "title": "Web",
+            "ProjectName": "Drums Game",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/drum/drum.jpg",
+            "htmlFile": "project-html/Web/drum.html",
+            "subTitle": "Game<br> Made using Javascript"
+        },
+        {
+            "title": "Web",
+            "ProjectName": "TinDog website",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/tindog/tindog.jpg",
+            "htmlFile": "project-html/Web/tindog.html",
+            "subTitle": "Website<br> Made using Bootstrap CSS"
+        },
+        {
+            "title": "Web",
+            "ProjectName": "My Basic Site",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/site4/site4.jpg",
+            "htmlFile": "project-html/Web/site4.html",
+            "subTitle": "Website 2<br> Made using Simple HTML and CSS"
+        }
+        ,
+        {
+            "title": "Web",
+            "ProjectName": "Simon Game",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/simon/simon.jpg",
+            "htmlFile": "project-html/Web/simon.html",
+            "subTitle": "Simon game 2<br> Made using Javascript"
+        }
+        ,
+        {
+            "title": "Web",
+            "ProjectName": "Guess Game",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/guess/guess.jpg",
+            "htmlFile": "project-html/Web/guess.html",
+            "subTitle": "Guess game 2<br> Made using Javascript and css"
+        }
+        ,
+        {
+            "title": "Web",
+            "ProjectName": "Case-Toggler",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/toggler/toggler.jpg",
+            "htmlFile": "project-html/Web/toggler.html",
+            "subTitle": "Case Toggler 2<br> Made using React"
+        }
+        ,
+        {
+            "title": "Web",
+            "ProjectName": "UI/UX",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/ui/ui.jpg",
+            "htmlFile": "project-html/Web/ui.html",
+            "subTitle": "UI/UX 2<br> Made using Adobe XD"
+        }
+        ,
+        {
+            "title": "Web",
+            "ProjectName": "Site 2",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/mysite3/site3.png",
+            "htmlFile": "project-html/Web/mysite3.html",
+            "subTitle": "My site  <br> Made using simple HTML CSS"
+        }
+        ,
+        {
+            "title": "Web",
+            "ProjectName": "Site 3",
+            "shortCategory": "Web Development",
+            "frontImg": "project-html/Web/img/mysite4/Site2.png",
+            "htmlFile": "project-html/Web/mysite4.html",
+            "subTitle": "My site  <br> Made using simple HTML CSS"
+        }
+        
+    ],
+    "projectTitles":["Web"]
+}
